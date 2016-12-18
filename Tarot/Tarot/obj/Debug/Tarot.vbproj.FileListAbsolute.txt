@@ -1,0 +1,11 @@
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\bin\Debug\Tarot.exe.config
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\bin\Debug\Tarot.exe
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\bin\Debug\Tarot.pdb
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\bin\Debug\Tarot.xml
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.vbprojResolveAssemblyReference.cache
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.Form1.resources
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.Resources.resources
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.vbproj.GenerateResource.Cache
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.exe
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.xml
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Tarot\Tarot\obj\Debug\Tarot.pdb
